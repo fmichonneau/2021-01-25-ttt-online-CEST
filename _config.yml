@@ -7,10 +7,10 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "cp"
+carpentry: "swc"
 
 # Overall title for pages.
-title: "IInstructor Training"
+title: "Carpentries Online Instructor Training"
 
 
 #------------------------------------------------------------
